@@ -26,7 +26,7 @@
         "php": ">=7.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.5.1",
+        "phpunit/phpunit": "^9.5.8",
         "vimeo/psalm": "^3.18.2",
         "symplify/easy-coding-standard": "^9.0.42",
         "psalm/plugin-phpunit": "^0.12.2"
